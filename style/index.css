@@ -31,5 +31,40 @@ ul li {
     font-weight: 800;
     font-family: 'Open Sans', sans-serif;
 }
+
 /* header sec end */
 
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 270px;
+}
+
+.navt {
+    color: #2D9CDB;
+    font-size: 21px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 90px;
+}
+
+.navp {
+    color: #333;
+    font-size: 48px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 15px;
+}
+
+img {
+    border-radius: 18px;
+    width: 93%;
+
+}
+
+.imgdiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
