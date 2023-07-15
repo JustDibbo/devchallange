@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header sec */
+ul li {
+    color: #333333c0;
+    font-size: 20px;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.list {
+    display: flex;
+    gap: 50px;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    padding: 0px 6 2px;
+    align-items: center;
+    width: auto;
+}
+
+.title {
+    color: #333;
+    font-size: 36px;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header sec end */
+
