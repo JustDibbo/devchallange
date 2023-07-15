@@ -51,7 +51,7 @@ nav {
 
 .navp {
     color: #333;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: 500;
     font-family: 'Open Sans', sans-serif;
     padding-top: 15px;
@@ -67,4 +67,60 @@ img {
     display: flex;
     justify-content: center;
     padding-top: 40px;
+}
+
+/* next */
+.nxtt {
+    color: #333;
+    font-size: 42px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 40px;
+    padding-left: 270px;
+}
+
+.nxtp {
+    color: #333333ea;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 270px;
+    line-height: 26px;
+}
+
+.nxtp2 {
+    color: #333333c0;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 270px
+}
+
+.iab {
+    padding-left: 270px;
+    padding-top: 10px;
+    margin-bottom: 200px;
+}
+
+.email {
+    padding: 15px 0px 15px 20px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 9px;
+    background: #cacaca54;
+    border: 0;
+
+}
+
+button {
+    color: white;
+    border-radius: 12px;
+    background: #2D9CDB;
+    padding: 15px 32px;
+    font-size: 18px;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+
 }
